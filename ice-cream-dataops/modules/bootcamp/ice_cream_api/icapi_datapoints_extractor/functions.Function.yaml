@@ -1,9 +1,0 @@
-📦modules
-┗ 📂bootcamp
-  ┗ 📂ice_cream_api
-    ┣ 📂auth
-    ┣ 📂data_sets
-    ┣ 📂extraction_pipelines
-    ┗ 📂functions
-      ┣ 📂icapi_datapoints_extractor
-      ┗ 📜functions.Function.yaml   <--------- New!
